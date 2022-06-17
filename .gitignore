@@ -2,6 +2,9 @@
 movies_metadata.csv
 ratings.csv
 
+# Adding config file
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
